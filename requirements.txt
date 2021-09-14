@@ -20,7 +20,7 @@ decorator==5.0.7
 defusedxml==0.7.1
 entrypoints==0.3
 gast==0.4.0
-httpstan==4.5
+httpstan==4.4.2
 gitdb==4.0.7
 GitPython==3.1.14
 google-auth==1.30.0
