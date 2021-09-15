@@ -90,6 +90,7 @@ Our model shows accuracy of 61% on validation set and 90% on train set.
 To access weblink please click on this link: https://face-emotion-recognition-webap.herokuapp.com/
 
 If unable to access, a video named Sample.mp4 has been upload in repository. Please feel free to have a look.
+link of Video : https://github.com/SajalSinha/Facial-Emotion-Recognition/blob/main/Sample_Local.mp4
 
 **Live face and emotion detection can be easily done with the help of our model.**
 
