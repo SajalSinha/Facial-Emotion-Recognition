@@ -1,5 +1,6 @@
 # Facial-Emotion-Recognition
 Introduction
+
 The Indian education landscape has been undergoing rapid changes for the past 10 years owing to
 the advancement of web-based learning services, specifically, eLearning platforms.
 Global E-learning is estimated to witness an 8X over the next 5 years to reach USD 2B in 2021. India
@@ -9,6 +10,8 @@ compared with brick and mortar classrooms. One of many challenges is how to ensu
 learning for students. Digital platforms might overpower physical classrooms in terms of content
 quality but when it comes to understanding whether students are able to grasp the content in a live
 class scenario is yet an open-end challenge.
+
+
 In a physical classroom during a lecturing teacher can see the faces and assess the emotion of the
 class and tune their lecture accordingly, whether he is going fast or slow. He can identify students who
 need special attention. Digital classrooms are conducted via video telephony software program (exZoom) where it’s not possible for medium scale class (25-50) to see all students and access the
