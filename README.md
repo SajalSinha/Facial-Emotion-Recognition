@@ -80,5 +80,10 @@ The Haar Casscade detects face and those faces are then cropped and convert to g
 
 Hyper-parameter that were used are epochs = 100,batch_size = 64 and learning_rate = 0.001
 
+![CNN2D](https://user-images.githubusercontent.com/79034119/133448924-88b0c3c4-6eec-4f36-8c45-5a5d5a6f3b2a.png)
+
 ## 2.3 Evaluation Metrics
+
+
+
 
