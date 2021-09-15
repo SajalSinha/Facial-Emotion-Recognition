@@ -74,7 +74,7 @@ Face-detection algorithms focus on the detection of frontal human faces. It is a
 
 Object Detection using Haar feature-based cascade classifiers is an effective object detection method proposed by Paul Viola and Michael Jones in their paper, "Rapid Object Detection using a Boosted Cascade of Simple Features" in 2001. It is a machine learning based approach where a cascade function is trained from a lot of positive and negative images. It is then used to detect objects in other images. Here it will train with faces. Initially, the algorithm needs a lot of positive images (images of faces) and negative images (images without faces) to train the classifier.
 
-## 2.2 Facial Feature Detection and Emotion CLassification.
+## 2.2 Facial Feature Detection and Emotion Classification.
 
 The Haar Casscade detects face and those faces are then cropped and convert to gray images. These  gray images further get converted into iamge aaray for processing. Out DNN is made up of 4 CNN blocks and 5 Dense block with dropout probabilities of 0.5. Each block has Batch Normalization layer, CNN layer (3x3) kernel, activation Function layer (ReLU) and max pooling (2x2). Dataset which is used to train this DNN is FER 2013 dataset. It has images of all 7 class of emotion. 
 
@@ -84,6 +84,14 @@ Hyper-parameter that were used are epochs = 100,batch_size = 64 and learning_rat
 
 ## 2.3 Evaluation Metrics
 
+# 3. Conclusions 
+
+Our model shows accuracy of 61% on validation set and 90% on train set. 
+To access weblink please click on this link: 
+
+If unable to access, a video named Sample.mp4 has been upload in repository. Please feel free to have a look.
+
+**Live face and emotion detection can be easily done with the help of our model.**
 
 
 
