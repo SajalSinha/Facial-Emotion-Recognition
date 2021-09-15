@@ -394,8 +394,8 @@ def main():
     <h1 style="color:white;text-align:center;">Welcome To our Webapp</h1></div>
     
     <h2 style="text-align:center;"><b> This webapp shows realtime emotion recognition and realtime snapshot </h2></b>
-    <h4 style="text-align:ceter;">
-      Please select HOME from side bar
+    <h4 style="text-align:center;">
+     <br><br><br>Please select HOME from side bar</br></br></br>
     </h4>
     </center>
   </body>
