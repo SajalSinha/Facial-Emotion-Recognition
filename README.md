@@ -89,6 +89,17 @@ Hyper-parameter that were used are epochs = 100,batch_size = 64 and learning_rat
 
 ## 2.3 Evaluation Metrics
 
+**Loss and Accuracy Graph**
+
+![Loss graph](https://user-images.githubusercontent.com/79034119/133657378-ffb03296-9c65-4b86-bf34-0f7f028b55b1.png)
+
+**Confusion Matrix**
+
+
+![confusion matrix](https://user-images.githubusercontent.com/79034119/133657418-5e4cc352-d1a5-45bd-913e-0d398f2683d6.png)
+
+
+
 # 3. Conclusions 
 
 Our model shows accuracy of 61% on validation set and 90% on train set. 
