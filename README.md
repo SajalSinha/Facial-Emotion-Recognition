@@ -82,6 +82,11 @@ Hyper-parameter that were used are epochs = 100,batch_size = 64 and learning_rat
 
 ![CNN2D](https://user-images.githubusercontent.com/79034119/133448924-88b0c3c4-6eec-4f36-8c45-5a5d5a6f3b2a.png)
 
+**For more detailed information please refer:** 
+1. https://github.com/SajalSinha/Facial-Emotion-Recognition/blob/main/FER%20Tech%20Doc%20(1).pdf
+
+2. https://github.com/SajalSinha/Facial-Emotion-Recognition/blob/main/Reference%20Paper.pdf
+
 ## 2.3 Evaluation Metrics
 
 # 3. Conclusions 
