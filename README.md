@@ -96,6 +96,8 @@ If unable to access, a video named Sample.mp4 has been upload in repository. Ple
 
 link of Video : https://github.com/SajalSinha/Facial-Emotion-Recognition/blob/main/Sample_Local.mp4
 
+Colab working Video Link: https://github.com/SajalSinha/Facial-Emotion-Recognition/blob/main/colab-sample-2.mp4
+
 **Live face and emotion detection can be easily done with the help of our model.**
 
 
