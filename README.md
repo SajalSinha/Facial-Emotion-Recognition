@@ -87,8 +87,8 @@ Hyper-parameter that were used are epochs = 100,batch_size = 64 and learning_rat
 # 3. Conclusions 
 
 Our model shows accuracy of 61% on validation set and 90% on train set. 
-To access weblink please click on this link: https://face-emotion-recognition-webap.herokuapp.com/
-
+To access weblink please click on this link(Heroku): https://face-emotion-recognition-webap.herokuapp.com/
+To access weblink please click on this link(streamlit share): https://share.streamlit.io/sajalsinha/facial-emotion-recognition/main/app.py
 If unable to access, a video named Sample.mp4 has been upload in repository. Please feel free to have a look.
 link of Video : https://github.com/SajalSinha/Facial-Emotion-Recognition/blob/main/Sample_Local.mp4
 
