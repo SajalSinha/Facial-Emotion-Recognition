@@ -71,17 +71,6 @@ Hyper-parameter that were used are epochs = 100,batch_size = 64 and learning_rat
 ![CNN2D](https://user-images.githubusercontent.com/79034119/133448924-88b0c3c4-6eec-4f36-8c45-5a5d5a6f3b2a.png)
 
 
-![Sample](https://github.com/SajalSinha/Facial-Emotion-Recognition/blob/main/Screenshot%202021-09-15%20at%2010.58.47%20PM.png)
-
-
-
-
-![sample 2](https://github.com/SajalSinha/Facial-Emotion-Recognition/blob/main/Screenshot%202021-09-15%20at%2011.11.40%20PM.png)
-
-
-
-
-
 
 **For more detailed information please refer:** 
 1. https://github.com/SajalSinha/Facial-Emotion-Recognition/blob/main/FER%20Tech%20Doc%20(1).pdf
@@ -110,6 +99,26 @@ To access weblink please click on this link(Heroku): https://face-emotion-recogn
 To access weblink please click on this link(streamlit share): https://share.streamlit.io/sajalsinha/facial-emotion-recognition/main/app.py
 
 If unable to access, a video named Sample.mp4 has been upload in repository. Please feel free to have a look.
+
+
+![Sample](https://github.com/SajalSinha/Facial-Emotion-Recognition/blob/main/Screenshot%202021-09-15%20at%2010.58.47%20PM.png)
+
+
+
+
+
+
+
+
+
+
+
+
+![sample 2](https://github.com/SajalSinha/Facial-Emotion-Recognition/blob/main/Screenshot%202021-09-15%20at%2011.11.40%20PM.png)
+
+
+
+
 
 link of Video : https://github.com/SajalSinha/Facial-Emotion-Recognition/blob/main/Sample_Local.mp4
 
