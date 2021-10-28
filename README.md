@@ -13,6 +13,15 @@ quality but when it comes to understanding whether students are able to grasp th
 class scenario is yet an open-end challenge.
 
 
+
+
+![images (2)](https://user-images.githubusercontent.com/79034119/139306520-ffca863d-a129-4754-bd1d-ab1b805d0dae.jpeg)
+
+![images (3)](https://user-images.githubusercontent.com/79034119/139306670-36afe75c-6b49-46ac-948d-3c77b77a70fd.jpeg)
+
+
+
+
 In a physical classroom during a lecturing teacher can see the faces and assess the emotion of the
 class and tune their lecture accordingly, whether he is going fast or slow. He can identify students who
 need special attention. Digital classrooms are conducted via video telephony software program (exZoom) where it’s not possible for medium scale class (25-50) to see all students and access the
