@@ -38,7 +38,7 @@ We will solve the above-mentioned challenge by applying deep learning algorithms
 The solution to this problem is by **recognizing facial emotions**.
 
 
-# 2. Face Emotion Recognition Model
+## 2. Face Emotion Recognition Model
 
 Facial expression recognition system is a computer-based technology and therefore, it uses algorithms to instantaneously detect faces, code facial expressions, and recognize emotional states. It does this by analyzing faces in images or video through computer powered cameras embedded in laptops, mobile phones, and digital signage systems, or cameras that are mounted onto computer screens. Facial analysis through computer powered cameras generally follows three steps:
 
