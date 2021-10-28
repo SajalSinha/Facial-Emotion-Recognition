@@ -32,32 +32,11 @@ which can be analysed using deep learning algorithms. Deep learning backed syste
 the surveillance issue, but it also removes the human bias from the system, and all information is no
 longer in the teacher’s brain rather translated in numbers that can be analysed and tracked.
 
-## 1.1 Problem Statement
+## 1. Problem Statement
 
 We will solve the above-mentioned challenge by applying deep learning algorithms to live video data.
 The solution to this problem is by **recognizing facial emotions**.
 
-## 1.2 What is facial emotion recognition?
-
-Facial emotion recognition is the process of detecting human emotions from facial expressions. The human brain recognizes emotions automatically, and software has now been developed that can recognize emotions as well. This technology is becoming more accurate all the time, and will eventually be able to read emotions as well as our brains do. 
-
-AI can detect emotions by learning what each facial expression means and applying that knowledge to the new information presented to it. Emotional artificial intelligence, or emotion AI, is a technology that is capable of reading, imitating, interpreting, and responding to human facial expressions and emotions.
-
-## 1.3 How can Facial Expression Recognition software be used?
-
-For businesses, since facial expression recognition software delivers raw emotional responses, it can provide valuable information about the sentiment of a target audience towards a marketing message, product or brand. It is the most ideal way to assess the effectiveness of any business content.
-
-There are several ways that facial expression recognition software can be used by businesses. Here are two examples:
-
-**Market research**
-
-Companies have traditionally done market research by conducting surveys to find out about what consumers want and need. This method however, assumes that the preferences stated are correct and reflect future actions. But this is not always the case. Another popular approach in market research is to employ behavioral methods where user’s reactions are observed, while interacting with a brand or a product. Although effective, such techniques can quickly become very labor intensive as the sample size increases. In such circumstances, facial expression recognition technology can save the day by allowing companies to conduct market research and measure moment-by-moment facial expressions of emotions automatically, making it easy aggregate the results.
-
-**Video game testing**
-
-Facial expression recognition can also be used in the video game testing phase. In this phase, usually a focus group of users is asked to play a game for a given amount of time and their behavior and emotions are monitored. By using facial expression recognition, game developers can gain insights and draw conclusions about the emotions experienced during game play and incorporate that feedback in the making of the final product.
-
-Facial expression analysis is a practical means of going beyond the typical survey approach. It is a way of appreciating what the user is experiencing, all while getting feedback. When feedback is taken in this format, it becomes genuinely non-intrusive when it comes to user experience.
 
 # 2. Face Emotion Recognition Model
 
@@ -90,6 +69,16 @@ The Haar Casscade detects face and those faces are then cropped and convert to g
 Hyper-parameter that were used are epochs = 100,batch_size = 64 and learning_rate = 0.001
 
 ![CNN2D](https://user-images.githubusercontent.com/79034119/133448924-88b0c3c4-6eec-4f36-8c45-5a5d5a6f3b2a.png)
+
+
+![Sample](https://github.com/SajalSinha/Facial-Emotion-Recognition/blob/main/Screenshot%202021-09-15%20at%2010.58.47%20PM.png)
+
+
+
+
+![sample 2](https://github.com/SajalSinha/Facial-Emotion-Recognition/blob/main/Screenshot%202021-09-15%20at%2011.11.40%20PM.png)
+
+
 
 
 
